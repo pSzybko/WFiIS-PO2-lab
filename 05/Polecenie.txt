@@ -1,0 +1,20 @@
+Stworzyć Linked Listę z użyciem TABLIC w Javie.
+
+Funkcjonalności jakie ma mieć utworzona klasa o nazwie LinkedList:
+- stworzenie LinkedListy z tablicy -> new LinkedList(arr[])
+- dodanie nowego elementu -> list.add(number) -> ma utworzyć nowy Node i dodać go na koniec listy
+
+-usunięcie heada-> list.remove() -> usuwa head
+
+-zmergowanie(złączenie) dwóch linked list ->  list.merge(anotherList)
+
+-wyczyszczenie listy -> clear
+
+-sprawdzenie czy lista zawiera element z wartością -> list.contains(3)
+
+-wypisanie całej listy -> list.display()
+
+
+
+Każdy element listy(Node) składa się z co najmniej dwóch pól: wartości oraz pola wskazującego na następny element listy.
+Celem zadania jest napisanie listy jednokierunkowej.

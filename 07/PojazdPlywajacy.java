@@ -1,0 +1,3 @@
+interface PojazdPlywajacy{
+    void plyn();
+}

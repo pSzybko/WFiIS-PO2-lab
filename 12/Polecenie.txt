@@ -1,0 +1,12 @@
+Stworzyc klase
+Person: imie, nazwisko, plec(enum), wiek
+Stworzyc Klase PersonService która będzie miała nastepujące funkcjonlaności :
+- zwrócenie listy zawierajacej osoby podanej plci
+- zwrocenie listy osob pelnoletnich >= 18 lat
+- zwrocenie listy osob z danym nazwiskiem
+- zwrocenie listy osob z danym imieniem
+- zwrocenie sumy wieku wszystkich podanych w liscie
+- zwrocenie mapy zawierajacej jako klucz imie + nazwisko(polaczone w jednego stringa), jako wartosc wiek
+- zwrocenie listy osob z wiekiem pomnożonym przez 2
+
+Przekazujemy do funkcji Listę oraz pozostałe parametry i na niej wykonujemy operacje
